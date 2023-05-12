@@ -73,7 +73,6 @@
             android:backgroundTint="#009688"
             android:text="Login"
             android:textColorLink="#673AB7"
-            app:cornerRadius="@dimen/cardview_default_radius"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintHorizontal_bias="0.511"
             app:layout_constraintStart_toStartOf="parent"
